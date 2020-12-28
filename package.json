@@ -1,0 +1,22 @@
+{
+  "name": "virtual_keyboardapp-nishantbisen09",
+  "version": "1.0.0",
+  "description": "> A virtual keyboard from scratch with Vanilla JS, HTML, and CSS that can be used in the browser and will be responsive.\r One to two paragraph statement about your product and what it does.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pesto-students/virtual_keyboardapp-nishantbisen09.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pesto-students/virtual_keyboardapp-nishantbisen09/issues"
+  },
+  "homepage": "https://github.com/pesto-students/virtual_keyboardapp-nishantbisen09#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1"
+  }
+}
